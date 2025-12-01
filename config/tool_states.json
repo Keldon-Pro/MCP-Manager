@@ -19,7 +19,7 @@
     }
   },
   "高德地图": {
-    "enabled": true,
+    "enabled": false,
     "tools": {
       "maps_direction_driving": {
         "turn-on": true
@@ -30,6 +30,6 @@
     "enabled": true
   },
   "fetch": {
-    "enabled": false
+    "enabled": true
   }
 }

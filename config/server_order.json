@@ -1,7 +1,7 @@
 [
+  "time",
+  "fetch",
   "高德地图",
   "chrome-devtools",
-  "time",
-  "mcp-server-chart",
-  "fetch"
+  "mcp-server-chart"
 ]
